@@ -1,0 +1,22 @@
+{
+  "name": "string-calc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amelieKah/String-calc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amelieKah/String-calc/issues"
+  },
+  "homepage": "https://github.com/amelieKah/String-calc#readme",
+  "devDependencies": {
+    "jest": "^25.4.0"
+  }
+}
